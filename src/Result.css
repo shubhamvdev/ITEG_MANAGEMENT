@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black');
+
+html, body
+{
+    height: 100%
+}
+ 
+ 
+  
+body
+{
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Helvetica Neue;
+}
+    
+  
+h1,h2
+{
+    font-size: 2em;
+    font-weight: bold ;
+    font-family: sans-serif;
+   
+}
+ 
+ 
+.form
+ {
+    height: 35%;
+    border: 2px solid #2196f3;
+    border-radius: 2%;
+    margin-top: 1em;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #F7F9F9;
+    display: flex;
+    padding: 45px;
+ }
+
+ 
+ .inputcontainer
+ {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-direction: column;
+ }
+  
+input
+   {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+   }
+  
+Button
+  {
+    justify-content: center;
+    align-items: center;
+    margin: 2em;
+  }
+
+  .myForm
+  {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    
+
+  }
+  
+  
+ 

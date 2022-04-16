@@ -1,0 +1,58 @@
+     table {
+		border: 2px solid #294870;
+		width: 190%;
+		max-width: 800px;
+		height: 300px;
+		margin-left: 30%;
+		}
+
+		th {
+		background-color: #294870;
+		/* border: 2px solid #294870; */
+		color: aliceblue;
+		font-size: 20px;
+		height: 70px;
+		text-align: center;
+		}
+		
+		td {
+		text-align: center;
+		/* border: 2px solid #294870; */
+		height: 70px;
+		}
+		tr:hover {
+			background-color: #294870;
+		color: aliceblue;
+		/* opacity: 0.8; */
+	}
+	.table{
+		padding-top: 120px;
+	}
+	.button {
+		background-color: #294870; /* Green */
+		border: none;
+		color: hsl(0, 0%, 100%);
+		padding: 11px 20px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		font-style: Roboto;
+		text-align: center;
+		margin: 14px 5px;
+		/* margin-top: 100px; */
+		margin-bottom: 0px;
+		
+		cursor: pointer;
+		border-radius: 15px;
+		-webkit-transition-duration: 0.4s; /* Safari */
+		transition-duration: 0.4s;
+		
+	  }
+	  #btn{
+		  /* margin-top: 100px; */
+		  /* padding: auto; */
+		  padding-left: 8rem;
+		  margin-left: 20%;
+		  margin-bottom: 10px;
+	  }
